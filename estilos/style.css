@@ -7,7 +7,7 @@
 }
 
 body {
-    background: black url('/imagens/fundo-madeira.jpg') top center fixed;
+    background: black url('../imagens/fundo-madeira.jpg') top center fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
